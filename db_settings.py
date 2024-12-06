@@ -1,0 +1,1 @@
+DB_URL = "postgresql://DBpostgres:azsxdc@localhost:5432/app"
